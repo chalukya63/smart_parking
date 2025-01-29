@@ -1,6 +1,6 @@
 # smart_parking
-smartparking system 
-# Smart parking systems have emerged as a transformative solution to alleviate the
+ 
+ Smart parking systems have emerged as a transformative solution to alleviate the
  perennial issue of parking space scarcity in urban areas. With the rapid urbanization
 and the ever-growing number of vehicles on the road, finding a free parking spot has
 become a daunting challenge for drivers, leading to congestion, frustration, and even
